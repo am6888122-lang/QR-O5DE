@@ -6,9 +6,9 @@ QRo5de is a Flutter-based mobile app that allows users to generate and scan QR c
 
 ## 📸 Screenshots
 
-| Splash Screen | Scanner | Generator |
-| :---: | :---: | :---: |
-| <img src="screenshots/splash.png" width="250"> | <img src="screenshots/scanner.png" width="250"> | <img src="screenshots/generator.png" width="250"> |
+| Splash & Home | Scanner | Generator | History | Settings |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="screenshots/Screenshot_1769638380.png" width="200"> | <img src="screenshots/Screenshot_1769638388.png" width="200"> | <img src="screenshots/Screenshot_1769638404.png" width="200"> | <img src="screenshots/Screenshot_1769638413.png" width="200"> | <img src="screenshots/Screenshot_1769638527.png" width="200"> |
 
 ## 🚀 Features
 
